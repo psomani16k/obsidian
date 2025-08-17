@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b7190c8755ca1f",
+        "id": "15abf7e64c13859e",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e784cffd5b8dc0",
+            "id": "bc1c877e0f158146",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,22 +163,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7e784cffd5b8dc0",
+  "active": "8384d3f080123042",
   "lastOpenFiles": [
     "Sources/Books/Impl Rust on ESP32.pdf",
     "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
+    "Sources/Books/The Rustonomics.pdf",
+    "Sources/Books/Computer Systems.pdf",
     "Untitled.canvas",
     "Main/2025-08-17.md",
     "Sources/Books/How to take smart notes.pdf",
