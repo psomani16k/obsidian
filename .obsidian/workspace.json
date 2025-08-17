@@ -11,10 +11,16 @@
             "id": "be2119ed46c47108",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
+                "page": 1,
+                "left": -15,
+                "top": 724,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Simplified Embedded Rust - ESP Core Library Edition"
             }
           }
         ]
@@ -175,12 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be2119ed46c47108",
+  "active": "d50a69fab6462967",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Main/2025-08-17.md",
     "Sources/Books/How to take smart notes.pdf",
-    "Sources/Books/Simplified Embedded Rust: ESP Core Library Edition.pdf",
+    "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
     "Sources/Books/Practical Vim.pdf",
     "Sources/Books/Learning Go.pdf",
     "sync.sh",
