@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87cc3d7c56c5ae4c",
+        "id": "2115be378b994813",
         "type": "tabs",
         "children": [
           {
-            "id": "6af47eb1e1c0482e",
+            "id": "be2119ed46c47108",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sources/Books/How to take smart notes.pdf",
-                "page": 4,
-                "left": -11,
-                "top": 160,
-                "zoom": 1.3088235294117647
-              },
-              "icon": "lucide-file-text",
-              "title": "How to take smart notes"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -149,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8384d3f080123042",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,17 +171,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6af47eb1e1c0482e",
+  "active": "be2119ed46c47108",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Main/2025-08-17.md",
+    "Sources/Books/How to take smart notes.pdf",
     "Sources/Books/Simplified Embedded Rust: ESP Core Library Edition.pdf",
     "Sources/Books/Practical Vim.pdf",
     "Sources/Books/Learning Go.pdf",
     "sync.sh",
     "Main/Untitled.md",
-    "Sources/Books/How to take smart notes.pdf",
     "Untitled.md",
     "Template/Main.md"
   ]
