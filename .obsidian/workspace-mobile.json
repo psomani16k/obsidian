@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Sources/Books/How to take smart notes.pdf",
-                "page": 1,
+                "page": 2,
                 "left": 0,
-                "top": 792,
-                "zoom": 0.49019607843137253
+                "top": 569,
+                "zoom": 0.65
               },
               "icon": "lucide-file-text",
               "title": "How to take smart notes"
@@ -148,8 +148,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -165,8 +165,7 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "d5bccb99862e39e0",
