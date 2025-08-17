@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Sources/Books/How to take smart notes.pdf",
-                "page": 1,
+                "page": 12,
                 "left": 0,
-                "top": 792,
-                "zoom": 1.088235294117647
+                "top": 462,
+                "zoom": 0.49019607843137253
               },
               "icon": "lucide-file-text",
               "title": "How to take smart notes"
@@ -169,8 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5bccb99862e39e0",
+  "active": "750dddb3925fb2e7",
   "lastOpenFiles": [
+    "Sources/Books/The Rustonomics.pdf",
+    "/Sources/Books/The Rustonomics.pdf",
+    "/Sources/Books/Computer Systems.pdf",
+    "Sources/Books/Computer Systems.pdf",
+    "/Sources/Books",
+    "/Sources",
     "sync.sh"
   ]
 }
