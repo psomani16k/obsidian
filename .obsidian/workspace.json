@@ -15,6 +15,8 @@
               "state": {
                 "file": "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
                 "page": 1,
+                "left": -15,
+                "top": 724,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -179,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be2119ed46c47108",
+  "active": "d50a69fab6462967",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Main/2025-08-17.md",
