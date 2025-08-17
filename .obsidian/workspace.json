@@ -175,8 +175,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8384d3f080123042",
+  "active": "bc1c877e0f158146",
   "lastOpenFiles": [
+    "sync.sh~",
     "Sources/Books/Impl Rust on ESP32.pdf",
     "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
     "Sources/Books/The Rustonomics.pdf",
