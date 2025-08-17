@@ -30,3 +30,5 @@ obsidian_root="./"
   }
   git push
 } &>> "$obsidian_root/log"
+
+echo $obsidian_root
