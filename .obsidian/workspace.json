@@ -177,6 +177,7 @@
   },
   "active": "bc1c877e0f158146",
   "lastOpenFiles": [
+    "sync.sh",
     "sync.sh~",
     "Sources/Books/Impl Rust on ESP32.pdf",
     "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
@@ -187,7 +188,6 @@
     "Sources/Books/How to take smart notes.pdf",
     "Sources/Books/Practical Vim.pdf",
     "Sources/Books/Learning Go.pdf",
-    "sync.sh",
     "Main/Untitled.md",
     "Untitled.md",
     "Template/Main.md"
