@@ -177,10 +177,12 @@
   },
   "active": "bc1c877e0f158146",
   "lastOpenFiles": [
-    "run_sync.sh~",
-    "run_sync.sh",
     "sync.sh~",
+    "conflict-files-obsidian-git.md",
+    "run_sync.sh",
+    "log",
     "sync.sh",
+    "run_sync.sh~",
     "Sources/Books/Impl Rust on ESP32.pdf",
     "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
     "Sources/Books/The Rustonomics.pdf",
@@ -188,8 +190,6 @@
     "Untitled.canvas",
     "Main/2025-08-17.md",
     "Sources/Books/How to take smart notes.pdf",
-    "Sources/Books/Practical Vim.pdf",
-    "Sources/Books/Learning Go.pdf",
     "Main/Untitled.md",
     "Untitled.md",
     "Template/Main.md"
