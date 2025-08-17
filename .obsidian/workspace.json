@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2115be378b994813",
+        "id": "f2b7190c8755ca1f",
         "type": "tabs",
         "children": [
           {
-            "id": "be2119ed46c47108",
+            "id": "c7e784cffd5b8dc0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
-                "page": 1,
-                "left": -15,
-                "top": 724,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Simplified Embedded Rust - ESP Core Library Edition"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,24 +163,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d50a69fab6462967",
+  "active": "c7e784cffd5b8dc0",
   "lastOpenFiles": [
+    "Sources/Books/Impl Rust on ESP32.pdf",
+    "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
     "Untitled.canvas",
     "Main/2025-08-17.md",
     "Sources/Books/How to take smart notes.pdf",
-    "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
     "Sources/Books/Practical Vim.pdf",
     "Sources/Books/Learning Go.pdf",
     "sync.sh",
