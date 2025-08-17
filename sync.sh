@@ -6,7 +6,7 @@ obsidian_root="./"
 result=$(
   {
     echo "$dt
-    ================
+================
     "
     if ping -c 1 -W 3 www.github.com >/dev/null 2>&1; then
       echo "[OK] Internet connection detected."
