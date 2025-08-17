@@ -177,8 +177,10 @@
   },
   "active": "bc1c877e0f158146",
   "lastOpenFiles": [
-    "sync.sh",
+    "run_sync.sh~",
+    "run_sync.sh",
     "sync.sh~",
+    "sync.sh",
     "Sources/Books/Impl Rust on ESP32.pdf",
     "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
     "Sources/Books/The Rustonomics.pdf",
