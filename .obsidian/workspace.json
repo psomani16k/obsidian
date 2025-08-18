@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c053ff66f1dfb4d7",
+        "id": "15abf7e64c13859e",
         "type": "tabs",
         "children": [
           {
-            "id": "98fc79d30f8de4fa",
+            "id": "bc1c877e0f158146",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "New Vim Commands"
-            }
-          },
-          {
-            "id": "577b229347e8d54b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sources/Books/Practical Vim.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Practical Vim"
             }
           }
         ]
@@ -65,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#productivity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a4858b92d843cd5a",
@@ -167,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,25 +169,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "98fc79d30f8de4fa",
+  "active": "bc1c877e0f158146",
   "lastOpenFiles": [
-    "Sources/Books/Practical Vim.pdf",
-    "Main/New Vim Commands.md",
     "Template/tag.md",
-    "Template/Main.md",
+    "Tags/productivity.md",
     "Tags/vim.md",
-    "Tags/productivity.md",
-    "Tags/productivity.md",
     "Tags",
+    "Main/New Vim Commands.md",
     "Main",
-    "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
-    "Sources/Books/The Rustonomics.pdf",
+    "log",
     "sync.sh~",
     "conflict-files-obsidian-git.md",
     "run_sync.sh",
     "sync.sh",
     "run_sync.sh~",
+    "Sources/Books/Impl Rust on ESP32.pdf",
+    "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
+    "Sources/Books/The Rustonomics.pdf",
     "Untitled.canvas",
-    "Main/2025-08-17.md"
+    "Main/2025-08-17.md",
+    "Main/Untitled.md",
+    "Untitled.md",
+    "Template/Main.md"
   ]
 }
