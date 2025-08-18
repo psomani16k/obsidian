@@ -1,0 +1,5 @@
+
+.pdf-viewer .page, 
+.pdf-container .page {
+  filter: invert(1);
+}
