@@ -11,16 +11,14 @@
             "id": "d5bccb99862e39e0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sources/Books/How to take smart notes.pdf",
-                "page": 1,
-                "left": 0,
-                "top": 792,
-                "zoom": 0.49019607843137253
+                "file": "Main/New Vim Commands.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "How to take smart notes"
+              "icon": "lucide-file",
+              "title": "New Vim Commands"
             }
           }
         ]
@@ -170,6 +168,13 @@
   },
   "active": "d5bccb99862e39e0",
   "lastOpenFiles": [
+    "Sources/Books/How to take smart notes.pdf",
+    "Template/tag.md",
+    "Tags/vim.md",
+    "Tags/productivity.md",
+    "Tags",
+    "Main/New Vim Commands.md",
+    "Main",
     "Sources/Books/The Rustonomics.pdf",
     "/Sources/Books/The Rustonomics.pdf",
     "/Sources/Books/Computer Systems.pdf",
