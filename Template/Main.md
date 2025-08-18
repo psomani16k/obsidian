@@ -1,12 +1,14 @@
-Date: {{time}}, {{date}}
+#main 
 
-Tags: 
+Created on: {{time}}, {{date}}
 
-Tag notes:
+Tags:
+
+Brief Description: **
 
 # Heading
-
+---
 
 
 # References
-
+---

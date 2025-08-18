@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "15abf7e64c13859e",
+        "id": "c053ff66f1dfb4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1c877e0f158146",
+            "id": "98fc79d30f8de4fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/New Vim Commands.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "New Vim Commands"
+            }
+          },
+          {
+            "id": "577b229347e8d54b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sources/Books/Practical Vim.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Practical Vim"
             }
           }
         ]
@@ -49,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#productivity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a4858b92d843cd5a",
@@ -136,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main/New Vim Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of New Vim Commands"
             }
           }
         ],
@@ -149,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,27 +180,29 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "bc1c877e0f158146",
+  "active": "98fc79d30f8de4fa",
   "lastOpenFiles": [
+    "Sources/Books/Practical Vim.pdf",
+    "Main/New Vim Commands.md",
+    "Template/tag.md",
+    "Template/Main.md",
+    "Tags/vim.md",
+    "Tags/productivity.md",
+    "Tags/productivity.md",
+    "Tags",
+    "Main",
+    "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
+    "Sources/Books/The Rustonomics.pdf",
     "sync.sh~",
     "conflict-files-obsidian-git.md",
     "run_sync.sh",
     "log",
     "sync.sh",
     "run_sync.sh~",
-    "Sources/Books/Impl Rust on ESP32.pdf",
-    "Sources/Books/Simplified Embedded Rust - ESP Core Library Edition.pdf",
-    "Sources/Books/The Rustonomics.pdf",
-    "Sources/Books/Computer Systems.pdf",
     "Untitled.canvas",
-    "Main/2025-08-17.md",
-    "Sources/Books/How to take smart notes.pdf",
-    "Main/Untitled.md",
-    "Untitled.md",
-    "Template/Main.md"
+    "Main/2025-08-17.md"
   ]
 }
