@@ -26,6 +26,5 @@ $dt
     git checkout --ours -- .
   }
   git push
-} &>> "$obsidian_root/log"
+} # &>> "$obsidian_root/log"
 
-exit
