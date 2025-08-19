@@ -25,5 +25,6 @@ $dt
     git checkout --ours -- .
   }
   git push
-} # &>> "$obsidian_root/log"
+}  2>&1 | tee "$obsidian_root/log"
+
 
