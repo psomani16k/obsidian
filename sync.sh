@@ -1,4 +1,3 @@
-
 dt=$(date +"%H:%M %d-%m-%Y")
 obsidian_root="./"
 
