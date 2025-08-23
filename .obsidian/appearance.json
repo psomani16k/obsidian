@@ -2,7 +2,5 @@
   "theme": "obsidian",
   "accentColor": "#e08300",
   "cssTheme": "Obsidian gruvbox",
-  "enabledCssSnippets": [
-    "invert_pdf_color"
-  ]
+  "enabledCssSnippets": []
 }
