@@ -16,5 +16,4 @@ Brief Descriptions: *A list of vim commands that I did not know about before the
 
 # References
 ---
-> [!PDF|255, 208, 0] [[Practical Vim.pdf#page=30&annotation=8287R|Practical Vim, p.3]]
-> > `Indentation`: the  command increases the indentation from the current line until the end of the file
+> [!PDF] [[Practical Vim.pdf#page=30|Indentation]]
