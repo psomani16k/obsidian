@@ -12,3 +12,4 @@ Brief Description: *All about Google Kubernetes Engine*
 
 # References
 ---
+> [!PDF] [[Visualizing Google Cloud.pdf#page=20|Visualizing Google Cloud - Google Kubernetes Engine]]
