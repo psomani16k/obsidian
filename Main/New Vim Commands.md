@@ -14,6 +14,10 @@ Brief Descriptions: *A list of vim commands that I did not know about before the
 1. `{count}>{motion}` - indent the lines affected by the `motion`. 
 2. `{count}<{motion}` - un-indent the lines affected by the `motion`.
 
+## Jumping Bracket Pairs
+
+- Press `%` while cursor is on either of **{, [, (, ), ], }** to jump to the pairing bracket if it exists
+
 # References
 ---
 > [!PDF] [[Practical Vim.pdf#page=30|Indentation]]
